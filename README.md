@@ -6,6 +6,10 @@
 
 ## -> Preview
 
+
+https://github.com/user-attachments/assets/bb4cc483-579f-46d8-bde3-623891aa4daf
+
+
 ## -> The Advantage of the tool
 
 **The primary strength of this tool lies in its ability to generate random payloads using [Radamsa](https://gitlab.com/akihe/radamsa). This feature offers a wide array of unpredictable and varied payloads, enhancing its effectiveness in bypassing 403/401 Forbidden errors.**
@@ -48,7 +52,8 @@ python3 f0ur-zer0-three.py -u https://target.com/anything --exploit-all
 ```
 
 ## -> Installation
-
+First install radamsa from [here](https://gitlab.com/akihe/radamsa).
+Then install the tool.
 ```bash
 git clone https://github.com/Ay0ubN0uri/FOUR-ZERO-THREE.git
 cd FOUR-ZERO-THREE
